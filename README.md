@@ -1,1 +1,1 @@
-# here are video links for algo complexity dynamics course
+# here are video links for algo information dynamics course
