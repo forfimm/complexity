@@ -11,4 +11,13 @@ Here is the list of links for the course [Algorithmic Information Dynamics: A Co
 * [Modelling from observation](https://youtu.be/er9qOblR0NA)
 * [Causality as computation](https://youtu.be/BNOwD5zIrd0)
 * [Inference and complexity](https://youtu.be/h8fTUK1KjkM)
-* [The futurwe of causality](https://youtu.be/gun8eeELC6U)
+* [The future of causality](https://youtu.be/gun8eeELC6U)
+
+### Second week
+* [Basic definitions in network theory](https://www.youtube.com/watch?v=hDieAOqJsM0)
+* [Subgraphs and Graph Representations](https://www.youtube.com/watch?v=TFdxc1Apnls)
+* [Isomorphic graphs](https://www.youtube.com/watch?v=UbcNkK53X8E)
+* [Connectivity and trees](https://www.youtube.com/watch?v=rEaJO4QNImU)
+* [Properties of graphs](https://www.youtube.com/watch?v=_Tm0CqiGHtk)
+* [Network models](https://www.youtube.com/watch?v=riQ-u8qVUu8)
+* [Biological networks](https://www.youtube.com/watch?v=BtwyrLEPzaw)
